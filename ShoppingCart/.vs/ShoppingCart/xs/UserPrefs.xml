@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EE50B38D-FDFE-45BC-AA7F-B2F9B7C3BEC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShoppingCart PreferredExecutionTarget="/Users/anthonycampa/Desktop/Google Chrome 2.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingCart/wwwroot/js/MyProject.js">
+    <Files>
+      <File FileName="ShoppingCart/Views/Home/Index.cshtml" Line="37" Column="14" />
+      <File FileName="ShoppingCart/wwwroot/js/MyProject.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingCart" expanded="True">
+            <Node name="ShoppingCart" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="MyProject.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
