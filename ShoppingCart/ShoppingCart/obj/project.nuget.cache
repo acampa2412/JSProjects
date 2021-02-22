@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwi6slVbNBdCy02XE8T6PfNfKnx1dLxDnENotRNE345UksWVG7l2x7/lV757BtDpx6owzUCpZWjxbGjJHKduqw==",
+  "dgSpecHash": "w0uh6/O2EKkGkboxslpamRrqUl3sOwBJWMk3piiu0ZcvXPOa/xDk/K1my0v7agXUXNahCjPOoR5GEZS+afy8pQ==",
   "success": true,
-  "projectFilePath": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+  "projectFilePath": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/MyGram.csproj",
   "expectedPackageFiles": [
     "/Users/anthonycampa/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/3.1.12/microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
     "/Users/anthonycampa/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/3.1.12/microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.12.nupkg.sha512",

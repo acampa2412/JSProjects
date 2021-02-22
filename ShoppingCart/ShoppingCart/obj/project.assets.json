@@ -661,9 +661,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
-      "projectName": "ShoppingCart",
-      "projectPath": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+      "projectUniqueName": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/MyGram.csproj",
+      "projectName": "MyGram",
+      "projectPath": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/MyGram.csproj",
       "packagesPath": "/Users/anthonycampa/.nuget/packages/",
       "outputPath": "/Users/anthonycampa/Desktop/ShoppingCart/ShoppingCart/ShoppingCart/obj/",
       "projectStyle": "PackageReference",

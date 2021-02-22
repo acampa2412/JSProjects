@@ -1,20 +1,23 @@
-﻿<Properties StartupConfiguration="{EE50B38D-FDFE-45BC-AA7F-B2F9B7C3BEC0}|Default">
-  <MonoDevelop.Ide.ItemProperties.ShoppingCart PreferredExecutionTarget="/Users/anthonycampa/Desktop/Google Chrome 2.app" />
+﻿<Properties StartupConfiguration="{EE50B38D-FDFE-45BC-AA7F-B2F9B7C3BEC0}|ShoppingCart">
   <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingCart/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="ShoppingCart/Views/Home/Index.cshtml" Line="19" Column="31" />
+      <File FileName="ShoppingCart/Views/Home/Index.cshtml" Line="2" Column="20" />
       <File FileName="ShoppingCart/wwwroot/js/MyProject.js" Line="1" Column="1" />
+      <File FileName="ShoppingCart/wwwroot/css/site.css" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ShoppingCart" expanded="True">
-            <Node name="ShoppingCart" expanded="True" selected="True">
+          <Node name="MyGram" expanded="True">
+            <Node name="MyGram" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
                 <Node name="js" expanded="True" />
               </Node>
             </Node>
@@ -25,6 +28,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyGram PreferredExecutionTarget="/Users/anthonycampa/Desktop/Google Chrome 2.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

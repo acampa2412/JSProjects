@@ -1,3 +1,13 @@
-﻿var x = 0; //Number
-var y = "I Can't write a string"; //String
-var z = '"This is a quote"'; //String
+﻿var a = 3; 
+var b = 2; 
+var c = 1; 
+
+
+function myFunction(x, y, z) {
+    return (x + y + z)
+}
+var result = myFunction(10, 20, 30);
+console.log(result);
+
+
+
